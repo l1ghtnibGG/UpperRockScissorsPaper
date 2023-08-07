@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "23dOZ81ZAp3ijOoIrtD79FZybKLHNyitwBbXn9WBy9ZmQxMf4tybPEslLn3em7jguXRlaE4I7b7iCZB6UYVMSw==",
+  "success": true,
+  "projectFilePath": "E:\\InternItransition\\Task3\\UpperRockPapperScissors\\UpperRockPapperScissors\\UpperRockPapperScissors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladi\\.nuget\\packages\\consoletables\\2.5.0\\consoletables.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

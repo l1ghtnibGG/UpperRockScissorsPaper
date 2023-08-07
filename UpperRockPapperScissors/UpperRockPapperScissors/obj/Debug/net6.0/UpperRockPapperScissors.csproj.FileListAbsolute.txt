@@ -1,0 +1,17 @@
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\bin\Debug\net6.0\UpperRockPapperScissors.exe
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\bin\Debug\net6.0\UpperRockPapperScissors.deps.json
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\bin\Debug\net6.0\UpperRockPapperScissors.runtimeconfig.json
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\bin\Debug\net6.0\UpperRockPapperScissors.dll
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\bin\Debug\net6.0\UpperRockPapperScissors.pdb
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\obj\Debug\net6.0\UpperRockPapperScissors.csproj.AssemblyReference.cache
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\obj\Debug\net6.0\UpperRockPapperScissors.GeneratedMSBuildEditorConfig.editorconfig
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\obj\Debug\net6.0\UpperRockPapperScissors.AssemblyInfoInputs.cache
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\obj\Debug\net6.0\UpperRockPapperScissors.AssemblyInfo.cs
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\obj\Debug\net6.0\UpperRockPapperScissors.csproj.CoreCompileInputs.cache
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\obj\Debug\net6.0\UpperRockPapperScissors.dll
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\obj\Debug\net6.0\refint\UpperRockPapperScissors.dll
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\obj\Debug\net6.0\UpperRockPapperScissors.pdb
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\obj\Debug\net6.0\UpperRockPapperScissors.genruntimeconfig.cache
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\obj\Debug\net6.0\ref\UpperRockPapperScissors.dll
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\bin\Debug\net6.0\ConsoleTables.dll
+E:\InternItransition\Task3\UpperRockPapperScissors\UpperRockPapperScissors\obj\Debug\net6.0\UpperRockPapperScissors.csproj.CopyComplete
